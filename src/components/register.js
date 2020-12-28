@@ -67,6 +67,7 @@ return(
                             <div class="card bg-danger text-white shadow">
                                 <div class="card-body">
                                     Are you sure if the username is unique?
+                                    {errors}
                                 </div>
                             </div>
                         </div>
